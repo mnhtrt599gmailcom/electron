@@ -82,7 +82,7 @@ Chromium's public release schedule is [here](https://chromiumdash.appspot.com/sc
 :::
 
 Electron targets Chromium even-number versions, releasing every 8 weeks in concert
-with Chromium's 4-week release schedule.
+with Chromium's 4-week release schedule. For example, Electron 26 uses Chromium 116, while Electron 27 uses Chromium 118.
 
 ### Node.js version support
 
