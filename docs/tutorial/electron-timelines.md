@@ -73,7 +73,7 @@ and the version prior to that receives the vast majority of those fixes
 as time and bandwidth warrants. The oldest supported release line will receive
 only security fixes directly.
 
-### Chromium Version Support
+### Chromium version support
 
 :::info Chromium release schedule
 
@@ -84,7 +84,7 @@ Chromium's public release schedule is [here](https://chromiumdash.appspot.com/sc
 Electron targets Chromium even-number versions, releasing every 8 weeks in concert
 with Chromium's 4-week release schedule.
 
-### Node.js Version Support
+### Node.js version support
 
 Electron upgrades Node.js to even-number versions when they enter Active LTS. The schedule
 is as follows:
